@@ -17,7 +17,7 @@ const projects: Project[] = [
     link: "https://github.com/KritimPrasadKafle/marketplace-api",
   },
   {
-    name: "Cryto Seed Hub",
+    name: "Crypto Seed Hub",
     desc: "SeedForge: Generate secure seed phrases and blockchain wallets easily.",
     tech: "Javascript, React",
     link: "https://github.com/KritimPrasadKafle/CryptoSeedHub",
