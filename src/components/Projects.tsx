@@ -17,10 +17,10 @@ const projects: Project[] = [
     link: "https://github.com/KritimPrasadKafle/marketplace-api",
   },
   {
-    name: "Crypto Tracker",
-    desc: "Real-time blockchain transaction monitoring tool.",
-    tech: "JavaScript, Node.js, Solidity",
-    link: "https://github.com/KritimPrasadKafle/crypto-tracker",
+    name: "Cryto Seed Hub",
+    desc: "SeedForge: Generate secure seed phrases and blockchain wallets easily.",
+    tech: "Javascript, React",
+    link: "https://github.com/KritimPrasadKafle/CryptoSeedHub",
   },
 ];
 
